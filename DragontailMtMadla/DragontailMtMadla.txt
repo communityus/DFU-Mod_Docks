@@ -1,0 +1,12 @@
+<locations>
+	<locationInstance>
+		<name>new Location</name>
+		<locationID>46099178</locationID>
+		<type>0</type>
+		<prefab>small dock south no lighthouse</prefab>
+		<worldX>596</worldX>
+		<worldY>284</worldY>
+		<terrainX>44</terrainX>
+		<terrainY>1</terrainY>
+	</locationInstance>
+</locations>
