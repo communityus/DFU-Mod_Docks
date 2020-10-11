@@ -11,3 +11,10 @@ https://forums.dfworkshop.net/viewtopic.php?p=48714#p48714
 "I have never tried using version control tbh. Feel free to include the prefabs in the repo and credit me :p" - imsobadatnicknames
 Locations/LocationPrefab/* imsobadatnicknames graciously gave permission to include.
 ```
+Uncanny_Valley (CustomLocations, LocationEditor)
+```
+https://forums.dfworkshop.net/viewtopic.php?t=1046
+"Source code for the location loader. This also includes the unity editor script that allow you to create your own locations" - Uncanny_Valley
+https://forums.dfworkshop.net/viewtopic.php?f=14&t=3217
+"My hope is that sharing this editor now might encourage someone to start a shop or temple re-design project." - Uncanny_Valley
+```
