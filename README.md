@@ -9,7 +9,10 @@ https://forums.dfworkshop.net/viewtopic.php?p=48714#p48714
 ```
 "Most of your other work was also permissive use so I figured I'd ask for clarity on this collaborative project." - CommunityUs
 "I have never tried using version control tbh. Feel free to include the prefabs in the repo and credit me :p" - imsobadatnicknames
-Locations/LocationPrefab/* imsobadatnicknames graciously gave permission to include.
+```
+Locations/LocationPrefab/*
+```
+imsobadatnicknames graciously gave permission to include the prefabs
 ```
 Uncanny_Valley (CustomLocations, LocationEditor)
 ```
